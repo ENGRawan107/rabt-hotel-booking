@@ -33,10 +33,6 @@ A simple full-stack hotel booking web application built using:
 Users can enter their name, room number, and date to create a booking.  
 The system checks if the room is already booked for the same date before saving.
 
-## 📸 UI Preview
-
-(Add your screenshot here)
-
 ## 👩‍💻 Author
 
 Rawan
